@@ -6,6 +6,6 @@ RUN apt-get update
 
 EXPOSE 9090
 
-CMD ["echo","Hello Docker from Vinod"]
+CMD ["echo","Hello Docker from Mouli"]
 
 
